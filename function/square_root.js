@@ -1,4 +1,4 @@
-// let nombre = parseFloat(prompt("Entrez un nombre :"));
+let nombre = parseFloat(prompt("Entrez un nombre :"));
 
 export function squareroot(nombre) {
     if (nombre < 0) {
@@ -7,4 +7,4 @@ export function squareroot(nombre) {
     return Math.sqrt(nombre);
 }
 
-// console.log("Résultat :", squareroot(nombre));
+console.log("Résultat :", squareroot(nombre));
