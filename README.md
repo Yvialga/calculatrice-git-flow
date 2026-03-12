@@ -2,7 +2,7 @@
 
 ## Présentation du projet:
 
-Nous avons un calculatrice interractive qui permet d'effectuer des opérations telles que:
+Nous avons une calculatrice interractive qui permet d'effectuer des opérations telles que:
 
 - L' addition:
 - La soustraction
